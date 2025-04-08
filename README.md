@@ -48,6 +48,10 @@ This project uses a **greedy algorithm** to solve the problem in **O(n)** time a
 ```
 
 ---
+##Handwritten notes
+
+![Diagram](assets/Page1.jpeg)
+![Diagram](assets/page2.jpeg)
 
 ## 🧪 Sample Code
 
